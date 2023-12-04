@@ -73,7 +73,7 @@ export default function(){
 
 //Test PUT Update User    
 
-group('POST UPDATE USER', function () {
+group('PUT UPDATE USER', function () {
         
     const name = 'morpheus'
     const job = 'zion resident'
